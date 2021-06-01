@@ -60,13 +60,9 @@ class ProductList {
     }
   }
   
-  const catalog = new ProductList();
-
-  class Cart { // создание корзины
-    constructor(container = ".product") {
-      this.cartProduct();
+  const catalog = new ProductList
       
-    }
+    
 
     
    
